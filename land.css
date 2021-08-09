@@ -1,0 +1,210 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-Aug-2021, 5:26:51 pm
+    Author     : my pc
+*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap");
+.navbar-brand{
+    float: left;
+}
+
+.navbar-brand{
+    float: left;
+    width: 30px;
+    height: 20px;
+}
+
+.nav{
+    position: absolute;
+    bottom: 0;
+    margin-left: 90px;
+}
+
+.grid{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.tab{
+    padding: 5px 5px 5px 5px;
+   box-shadow: 2px 2px 2px #888888;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.post{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+@media screen and (max-width:500px){
+    h1{
+        font-size: 10px;
+    }
+    .container ul li{
+    font-size: 15px;
+}
+.container p span{
+    white-space: nowrap;
+    color: red;
+    font-size: 12px;
+}
+.container h3{
+    font-size: 15px;
+    color: #3c57a6;
+    font-weight: bolder
+}
+
+#headimg{
+    width: 100%
+}
+#parent{
+    font-size: 10vw;
+}
+}
+
+.container ul{
+    font-size: 35px;
+    color: #3c57a6;
+}
+.nowrap{
+    white-space: nowrap;
+    color: red;
+    font-size: 20px;
+}
+.free{
+    font-size: 25px;
+    color: #3c57a6;
+    font-weight: bolder
+}
+
+footer h3{
+    color: #3c57a6;
+}
+
+footer ul li a{
+    color: black;
+}
+
+.navbar-brand{
+    float: left;
+}
+
+.nav{
+    position: absolute;
+    bottom: 0;
+    margin-left: 90px;
+}
+.header-image img{
+    border-radius: 100%;
+    width: 50px;
+    height: 55px;
+    margin-top: -20px;
+    overflow: hidden;
+}
+footer{
+    padding: 4px;
+}
+
+/*footercss*/
+.footer-39201 {
+  padding: 2.2rem 0;
+  color: #9d9d9d;
+  background: #f7f7f7;
+  box-shadow: 0 -13px 26px #ffffff;
+}
+.footer-39201 .subscribe {
+  position: relative;
+}
+.footer-39201 .subscribe .form-control,
+.form-control.input[type="text"] {
+  background-color: #e6e6e6;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 30px;
+  height: 50px;
+  padding-left: 10px;
+  padding-right: 130px;
+  border: none;
+  color: #000;
+  box-shadow: -3px -3px 7px #ffffff, 3px 3px 5px #ceced1;
+}
+.footer-39201 .subscribe .form-control::-webkit-input-placeholder {
+  color: #b3b3b3;
+  font-style: italic;
+  font-size: 14px;
+}
+.footer-39201 .subscribe .form-control::-moz-placeholder {
+  color: #b3b3b3;
+  font-style: italic;
+  font-size: 14px;
+}
+.footer-39201 .subscribe .form-control:-ms-input-placeholder {
+  color: #b3b3b3;
+  font-style: italic;
+  font-size: 14px;
+}
+.footer-39201 .subscribe .form-control:-moz-placeholder {
+  color: #b3b3b3;
+  font-style: italic;
+  font-size: 14px;
+}
+.footer-39201 .subscribe .btn-submit {
+  background: #222162;
+  height: 40px;
+  border-radius: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: #fff;
+  font-weight: bold;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+
+  -webkit-box-shadow: -3px -3px 7px rgba(0, 0, 0, 0.2);
+  box-shadow: -3px -3px 7px rgba(0, 0, 0, 0.2), 3px 3px 5px #ceced1;
+}
+.footer-39201 h3 {
+  font-size: 16px;
+  font-weight: 900;
+  color: #32b8ca;
+  margin-bottom: 20px;
+}
+.footer-39201 .nav-links li {
+  display: block;
+  margin-bottom: 10px;
+}
+.footer-39201 .nav-links li a {
+  color: black;
+}
+.footer-39201 .nav-links li a:hover {
+  color: #614ad3;
+}
+.footer-39201 .social li {
+  display: inline-block;
+}
+.footer-39201 .social li a {
+  display: inline-block;
+  padding: 10px;
+  color: #9d9d9d;
+}
+.footer-39201 .social li a:hover {
+  color: #614ad3;
+}
+footer.footer-39201 {
+  margin-bottom: 0;
+}
+.social list-unstyled{
+    padding: 4px 4px 4px 4px;
+}
